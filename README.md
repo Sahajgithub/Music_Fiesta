@@ -1,2 +1,2 @@
 # Music_Fiesta
-Music Playing Website
+Responsive music playing website implemented on javascript and jQuery styling.
